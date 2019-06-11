@@ -27,4 +27,4 @@
 ![image](https://github.com/tianlian0/cloud_collection/blob/master/images/shang.png)  
 
 #### 商业合作
-本项目遵守AGPL3.0开源协议。商业合作可联系微信/QQ：654062779  
+本项目遵守GPL3.0开源协议。商业合作可联系微信/QQ：654062779  
